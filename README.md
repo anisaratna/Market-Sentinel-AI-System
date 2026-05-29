@@ -30,7 +30,7 @@ The project implements a **Decoupled Microservices Architecture**, ensuring scal
 *   **Cloud:** Neon.tech (PostgreSQL), Hugging Face Spaces.
 
 ## Dashboard Preview & Features
-Market-Sentinel-AI-System/preview.png
+https://github.com/anisaratna/Market-Sentinel-AI-System/blob/b23a036f41f3d97c54f3e8630229337715666ca7/preview.png
 
 ### **Key Features:**
 *   **Real-time Sentiment Tracking:** Visualize market "mood" swings with 4-hourly granularity.
