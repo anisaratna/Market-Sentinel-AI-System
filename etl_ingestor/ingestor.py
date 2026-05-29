@@ -6,7 +6,9 @@ from transformers import pipeline
 # Load API Keys dari GitHub Secrets
 NEWS_API_KEY = os.getenv("NEWS_API_KEY")
 DATABASE_URL = os.getenv("DATABASE_URL")
-TOPIC = "Strait of Hormuz"
+TOPICS = ["Strait of Hormuz", 
+    "AI Semiconductor", 
+    "Global Inflation"]
 
 def fetch_and_save():
     # 1. Setup AI Engine
