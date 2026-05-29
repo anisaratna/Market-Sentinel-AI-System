@@ -30,7 +30,7 @@ The project implements a **Decoupled Microservices Architecture**, ensuring scal
 *   **Cloud:** Neon.tech (PostgreSQL), Hugging Face Spaces.
 
 ## Dashboard Preview & Features
-preview.png
+Market-Sentinel-AI-System/preview.png
 
 ### **Key Features:**
 *   **Real-time Sentiment Tracking:** Visualize market "mood" swings with 4-hourly granularity.
@@ -50,5 +50,4 @@ preview.png
 *   **Optimized Inference:** Uses `st.cache_data` and efficient SQL queries to minimize database overhead and maximize UI responsiveness.
 *   **Security:** API Keys and Database Credentials are fully managed via **GitHub Secrets** and **Hugging Face Secrets**, following industry-standard security practices.
 
----
 Developed by **Annisa Ratna Salsabilla** | [LinkedIn](https://linkedin.com/in/annisartna)
