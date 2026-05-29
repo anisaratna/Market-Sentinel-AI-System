@@ -6,6 +6,8 @@
 [![Docker](https://img.shields.io/badge/Container-Docker-blue.svg)](https://www.docker.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+<img width="1024" height="1536" alt="framework" src="https://github.com/user-attachments/assets/1c7aca89-b4f2-463d-a670-0d4475dd8e1f" />
+
 ## Project Overview
 **Market Sentinel AI** is a production-grade data system designed to monitor and analyze global market sentiment across three strategic pillars: **Geopolitical Risks (Strait of Hormuz)**, **Technology Wars (AI Semiconductor)**, and **Macroeconomic Shifts (Global Inflation)**. This system automates the entire data lifecycle—from ingestion and AI-powered sentiment analysis to cloud storage, RESTful API delivery, and a Generative AI-integrated dashboard.
 
@@ -30,7 +32,7 @@ The project implements a **Decoupled Microservices Architecture**, ensuring scal
 *   **Cloud:** Neon.tech (PostgreSQL), Hugging Face Spaces.
 
 ## Dashboard Preview & Features
-https://github.com/anisaratna/Market-Sentinel-AI-System/blob/main/preview.png?raw=true
+<img width="1824" height="836" alt="preview" src="https://github.com/user-attachments/assets/85da66a1-acf9-4a1f-92be-15353df4273d" />
 
 ### **Key Features:**
 *   **Real-time Sentiment Tracking:** Visualize market "mood" swings with 4-hourly granularity.
